@@ -2,11 +2,12 @@ from nonebot import on_command
 from nonebot.permission import SUPERUSER
 from nonebot.plugin import PluginMetadata, require
 
+require("nonebot_plugin_localstore")
+require("nonebot_plugin_apscheduler")
+
 from .check import check_update
 from .version import __version__
 
-require("nonebot_plugin_apscheduler")
-require("nonebot_plugin_localstore")
 
 
 __plugin_meta__ = PluginMetadata(
