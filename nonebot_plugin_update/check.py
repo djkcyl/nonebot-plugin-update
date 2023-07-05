@@ -10,7 +10,6 @@ from nonebot_plugin_localstore import get_data_file
 
 
 from .model import Blacklist, CheckResult, PluginInfo, SkipType
-from .config import plugin_config
 
 BLACK_LIST_FILE = get_data_file("nonebot_plugin_update", "black_list.json")
 if BLACK_LIST_FILE.exists():
