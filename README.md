@@ -87,3 +87,6 @@ _✨ 用于检测 Nonebot 插件更新的 Nonebot 插件 ✨_
 | /npu check | 主人 |  否   | 均可 | 手动检查更新，将使预览版始终启用 |
 
 ### 效果图
+
+![1dd8be883b53d8106c3d6a79184a0c46](https://github.com/Aunly/nonebot-plugin-update/assets/59153990/9800fae3-e96b-49df-b26f-2cbdf4aa79f7)
+![36e0e353c459fe32aa68c8c6c8447961](https://github.com/Aunly/nonebot-plugin-update/assets/59153990/0d39b706-fd07-497d-a505-122fd9523eb2)
