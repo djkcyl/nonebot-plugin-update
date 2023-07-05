@@ -6,6 +6,7 @@ from .check import check_update
 from .version import __version__
 
 require("nonebot_plugin_apscheduler")
+require("nonebot_plugin_localstore")
 
 
 __plugin_meta__ = PluginMetadata(
