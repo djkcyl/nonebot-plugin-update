@@ -11,10 +11,10 @@ from .version import __version__
 
 
 __plugin_meta__ = PluginMetadata(
-    name="nonebot-plugin-update",
+    name="NPU",
     description="用于检测 Nonebot 插件更新的 Nonebot 插件",
     usage="发送 /npu help 查看帮助",
-    homepage="https://github.com/Aunly/nonebot-plugin-update",
+    homepage="https://github.com/djkcyl/nonebot-plugin-update",
     type="application",
     supported_adapters={"~onebot.v11"},
     extra={
